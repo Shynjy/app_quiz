@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class Resposta extends StatelessWidget {
+class BtnResposta extends StatelessWidget {
   final String texto;
   final void Function() onSelection;
 
-  Resposta(this.texto, this.onSelection);
+  BtnResposta(this.texto, this.onSelection);
 
   @override
   Widget build(BuildContext context) {
