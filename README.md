@@ -1,16 +1,15 @@
-# app_quiz
+# 📱 App_quiz
 
-A new Flutter project.
+## Sobre o Projeto<br>
+### Português:<br>
+Um projeto fictício apenas para estudo de flutter.
 
-## Getting Started
+### Inglês:<br>
+A fictitious project just to study flutter.
 
-This project is a starting point for a Flutter application.
+## :octocat: Conhecimentos usados
+### Português:<br>
+Este projeto foi construido em flutter usando linguagem dart, sem adição de nenhum módulo externo.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Inglês:<br>
+This project was built in flutter using dart language, without adding any external modules.
