@@ -1,11 +1,13 @@
 # 📱 App_quiz
 
-## Sobre o Projeto<br>
+## :memo: Sobre o Projeto<br>
 ### Português:<br>
 Um projeto fictício apenas para estudo de flutter.
+Com perguntas simples e uma tela de resultado.
 
 ### Inglês:<br>
 A fictitious project just to study flutter.
+With simple questions and a results screen.
 
 ## :octocat: Conhecimentos usados
 ### Português:<br>
