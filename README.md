@@ -1,3 +1,5 @@
+![Screenshot do app](assets/telas_app_quiz.jpg)
+
 # 📱 App_quiz
 
 ## :memo: Sobre o Projeto<br>
